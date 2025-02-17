@@ -10,7 +10,7 @@ Group: K34202
 
 Author: Gusevskaya Arina Eduardovna
 
-Lab: Lab1
+Lab: Lab3
 
 Date of create: 17.02.2025
 
@@ -28,15 +28,15 @@ Date of finished: 17.02.2025
 
 <img src="img/ast.png" width="500">
 
-2. Установиим soft телефон на рабочую станцию. Был выбран Twinkle (по результатам обзора в [статье](https://voxlink.ru/kb/ip-phones-configuration/obzor-i-sravnitelnaja-harakteristika-softfonov-na-linux/). Мануал по программе [здесь](https://mfnboer.home.xs4all.nl/twinkle/).
+2. Установиим soft телефон на рабочую станцию. Был выбран Twinkle (по результатам обзора в [статье](https://voxlink.ru/kb/ip-phones-configuration/obzor-i-sravnitelnaja-harakteristika-softfonov-na-linux/)). Мануал по программе [здесь](https://mfnboer.home.xs4all.nl/twinkle/).
 
 <img src="img/tw.png" width="500">
 
-3. Настроим SIP-канал. Отредактируем conf файл  'sip.conf', используя [руководство](https://asterisk-pbx.ru/wiki/asterisk/cf/chan_sip).
+3. Настроим SIP-канал. Отредактируем conf файл sip.conf, используя [руководство](https://asterisk-pbx.ru/wiki/asterisk/cf/chan_sip).
 
 <img src="img/sip.png" width="500">
 
-4. Отредактируем файл 'extentions.conf', который определяет правила маршрутизации.
+4. Отредактируем файл extentions.conf, который определяет правила маршрутизации.
 
 <img src="img/ext.png" width="500">
 
