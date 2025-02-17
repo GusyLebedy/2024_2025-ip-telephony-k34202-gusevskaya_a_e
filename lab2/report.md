@@ -10,7 +10,7 @@ Group: K34202
 
 Author: Gusevskaya Arina Eduardovna
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 16.02.2025
 
