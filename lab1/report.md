@@ -74,6 +74,6 @@ Date of finished: 16.02.2025
 
 <img src="img/sim.png" width="500">
 
-<img src="img/call2.png" width="500">
+<img src="img/call.png" width="500">
 
 <b>Вывод:</b> в ходе выполнения данной лабораторной работы была изучена рабочая среда Cisco Packet Tracer и построение сети IP-телефонии с помощью маршрутизатора, коммутатора и IP телефонов Cisco 7960 в среде Packet tracer. 
