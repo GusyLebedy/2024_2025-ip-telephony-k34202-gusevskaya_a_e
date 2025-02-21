@@ -34,7 +34,7 @@ Date of finished: 16.02.2025
 
 3. Зададим пароли для защиты маршрутизатора как в удаленном режиме, так и в режиме консоли. Как это сделать, написано в [статье](https://ciscotips.ru/passwords).
 
-<img src="img/password.jpg" width="500">
+<img src="img/password.png" width="500">
 
 4. Настроим интерфейс fa0/0 на маршрутизаторе.
 
